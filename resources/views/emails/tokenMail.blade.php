@@ -1,0 +1,1 @@
+seguir este link <a href="http://informatica.ieszaidinvergeles.org:9021/Cinelist/public/verifyemail/{{$user->token}}"> Link </a>

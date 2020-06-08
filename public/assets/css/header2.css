@@ -1,0 +1,29 @@
+.buscador-header , #boton-header, .li-header{
+    height:35px !important;
+    margin: 0 !important;
+}
+
+.buscador-header{
+    width: 370px !important;
+    box-shadow: 0px 0px 0px black !important;
+}
+#boton-header{
+    width: 50px !important;
+}
+
+
+form#search-form-1 .btn i {
+    font-size: 17px;
+    line-height: 36px;
+}
+
+.movie-list-2 .listing-image .removeBackground:after{
+    opacity:0 !important;
+}
+
+.hiddenMedia{
+    display:none;
+}
+.displayMedia{
+    display:block;
+}
